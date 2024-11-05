@@ -6,8 +6,8 @@ import Banner from '../components/Banner'
 
 function Home() {
   return (
-    <div>
-      <Header/>
+    <div className='text-pr'>
+      <Header />
       <SpecialityMenu/>
       <TopDoctor/>
       <Banner/>
